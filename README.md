@@ -5,7 +5,9 @@ You can use the [editor on GitHub](https://github.com/mkriens/mkriens.github.io/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-![image](https://user-images.githubusercontent.com/1223111/138558806-f61b678b-0b34-41ab-b655-744099b6182c.jpeg)
+<div class=foo>
+  ![image](https://user-images.githubusercontent.com/1223111/138558806-f61b678b-0b34-41ab-b655-744099b6182c.jpeg)
+</div>
 
 ### Markdown
 
